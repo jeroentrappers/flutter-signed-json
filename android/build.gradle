@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace 'com.icapps.signedjson'
-    compileSdkVersion 30
+    compileSdk 30
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
