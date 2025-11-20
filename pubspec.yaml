@@ -1,11 +1,11 @@
 name: signed_json
 description: An implementation to read signed jsons
 repository: https://github.com/icapps/flutter-signed-json
-version: 0.0.2
+version: 0.0.3
 homepage:
 
 environment:
-  sdk: ">=2.15.0 <3.0.0"
+  sdk: ">=2.15.0 <4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
@@ -14,6 +14,7 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
+  quiver: 3.2.2
   jose: ^0.3.2
 
 dev_dependencies:
