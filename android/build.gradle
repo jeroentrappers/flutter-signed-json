@@ -1,4 +1,4 @@
-group 'com.icapps.signedjson.signed_json'
+group 'com.icapps.signedjson'
 version '1.0-SNAPSHOT'
 
 buildscript {
